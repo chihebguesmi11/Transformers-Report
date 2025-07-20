@@ -13,7 +13,7 @@
 
 This report explores the rise of Transformer models and Large Language Models (LLMs), aiming to explain their inner workings, architectures, and practical usage through prompt design.
 
-It was written as part of my Master's coursework in Artificial Intelligence & Data Science at **Université Paris Dauphine | Campus de Tunis**, academic year **2024/2025**.
+It was written as part of my Master's coursework in Artificial Intelligence & Data Science at **Université Paris Dauphine | PSL**, academic year **2024/2025**.
 
 ---
 
